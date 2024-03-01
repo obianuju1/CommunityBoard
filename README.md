@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/obianuju1/CommunityBoard/assets/83367389/26ea3486-e6a7-4d8c-bfcb-8befee5ed3a0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Astrology CodePath Project 1 Gif](https://github.com/obianuju1/CommunityBoard/assets/83367389/26ea3486-e6a7-4d8c-bfcb-8befee5ed3a0)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
